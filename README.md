@@ -97,6 +97,6 @@ Alternatives could include:
 # Contact Information
 
 * **Author:** Shyam Sunder
-* **Registered CTFd User Name:** shyamsunders0708
+* **Registered CTF User Name:** shyamsunders0708
 * **GitHub:** [soc-pii-challenge-shyam-sunder](https://github.com/shyamsunder0717/soc-pii-challenge-shyam-sunder)
 
