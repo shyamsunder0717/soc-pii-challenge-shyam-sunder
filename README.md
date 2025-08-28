@@ -1,6 +1,6 @@
-# SOC-PII-Chalenge – Real-Time PII Redactor
+# SOC-PII-Challenge – Real-Time PII Redactor
 
-This repository houses my submission for the **Real-Time PII Defense** challenge as part of the SOC-PII-Chalenge initiative. The goal? To equip systems with the ability to **detect and redact sensitive Personally Identifiable Information (PII)** from data streams—without slowing them down.
+This repository houses my submission for the **Real-Time PII Defense** challenge as part of the SOC-PII-Challenge initiative. The goal? To equip systems with the ability to **detect and redact sensitive Personally Identifiable Information (PII)** from data streams—without slowing them down.
 
 ---
 
@@ -50,7 +50,7 @@ That's exactly what this project delivers.
 ```bash
 git clone https://github.com/shyamsunder0717/soc-pii-challenge-shyam-sunder.git
 cd soc-pii-challenge-shyam-sunder
-````
+```
 
 ## 2. Run the detector
 ```
@@ -87,15 +87,15 @@ Alternatives could include:
 
 * `detector_shyam_sunder.py`: The PII detector & redactor.
 * `redacted_output_shyam_sunder.csv`: Sample sanitized output.
-* `README.md`: You’re looking at it—clean, clear, human-readable documentation.
 
 ## Technical Notes
 
-* Written in Python 3, using only standard libraries (csv, json, re, sys).
+* Written in Python, using only standard libraries (csv, json, re, sys).
 * Built to minimize false positives, following precise definitions to meet high accuracy goals.
 * Aims for an F1 score ≥ 0.95 on hidden test sets.
 
 # Contact Information
 
 * **Author:** shyam_sunder
-* **GitHub:** [soc-pii-challenge-shyam-sunder](https://github.com/soc-pii-challenge-shyam-sunder)
+* **GitHub:** [soc-pii-challenge-shyam-sunder](https://github.com/shyamsunder0717/soc-pii-challenge-shyam-sunder)
+
