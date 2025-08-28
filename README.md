@@ -6,7 +6,7 @@ This repository houses my submission for the **Real-Time PII Defense** challenge
 
 ##  Challenge Overview
 
-Flixkart’s recent security audit uncovered a key vulnerability: logs leaking personal data like names and addresses from external APIs. Fraudsters exploited these leaks to scam customers via OTP scams and unauthorized refunds.
+Flipkart recent security audit uncovered a key vulnerability: logs leaking personal data like names and addresses from external APIs. Fraudsters exploited these leaks to scam customers via OTP scams and unauthorized refunds.
 
 **Your mission:** Develop a solution that can reliably:
 1. Identify PII (both standalone and combinatorial).
