@@ -1,4 +1,4 @@
-# SOC-PII-Challenge – Real-Time PII Redactor
+# ISCP 2.0 SOC-PII-Challenge – Real-Time PII Redactor
 
 This repository houses my submission for the **Real-Time PII Defense** challenge as part of the **Flipkart ISCP 2.0 SOC-PII-Challenge** initiative. The goal? To equip systems with the ability to **detect and redact sensitive Personally Identifiable Information (PII)** from data streams—without slowing them down.
 
@@ -96,6 +96,7 @@ Alternatives could include:
 
 # Contact Information
 
-* **Author:** shyam_sunder
+* **Author:** Shyam Sunder
+* **Registered CTFd User Name:** shyamsunders0708
 * **GitHub:** [soc-pii-challenge-shyam-sunder](https://github.com/shyamsunder0717/soc-pii-challenge-shyam-sunder)
 
