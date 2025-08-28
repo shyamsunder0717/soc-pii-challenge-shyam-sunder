@@ -1,6 +1,6 @@
 # SOC-PII-Challenge – Real-Time PII Redactor
 
-This repository houses my submission for the **Real-Time PII Defense** challenge as part of the SOC-PII-Challenge initiative. The goal? To equip systems with the ability to **detect and redact sensitive Personally Identifiable Information (PII)** from data streams—without slowing them down.
+This repository houses my submission for the **Real-Time PII Defense** challenge as part of the Flipkart ISCP 2.0 SOC-PII-Challenge initiative. The goal? To equip systems with the ability to **detect and redact sensitive Personally Identifiable Information (PII)** from data streams—without slowing them down.
 
 ---
 
